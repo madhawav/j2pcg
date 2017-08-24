@@ -5,6 +5,10 @@ import java.lang.reflect.Type;
 /**
  * Created by madhawa on 8/24/17.
  */
+
+/**
+ * Generates Python code for wrapping Java Classes using Python Proxy Classes
+ */
 public class ClassWrapper {
     private JPClassMapper classMapper = null;
     public ClassWrapper(JPClassMapper classMapper)
