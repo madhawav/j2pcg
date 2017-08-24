@@ -1,0 +1,3 @@
+def <<<FunctionName>>>(self,<<<parameters>>>):
+    <<<parameter_unwrap>>>
+    self._proxy.<<<FunctionName>>>(<<<unwrapped_parameters>>>)

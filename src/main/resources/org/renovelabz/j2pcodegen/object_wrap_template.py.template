@@ -1,0 +1,2 @@
+from <<<import>>> import <<<python_type>>>
+<<<destination_name>>> = <<<python_type>>>._fromProxy(<<<source_name>>>)

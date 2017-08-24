@@ -1,0 +1,5 @@
+def <<<FunctionName>>>(self,<<<parameters>>>):
+    <<<parameter_unwrap>>>
+    raw_result = self._proxy.<<<FunctionName>>>(<<<unwrapped_parameters>>>)
+    <<<result_wrap>>>
+    return result
