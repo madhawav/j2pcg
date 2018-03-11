@@ -1,2 +1,2 @@
-# j2pcodegen
+# j2pcg
 Python wrapping generator for Java
